@@ -20,6 +20,6 @@
             "email": "radityaloviartha@gmail.com"
         }
     ],
-    "minimum-stability": "rc",
+    "minimum-stability": "RC",
     "version": "0.0.1"
 }
