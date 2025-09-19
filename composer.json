@@ -1,0 +1,25 @@
+{
+    "name": "rplvrtha/yii2-adminlte4",
+    "description": "AdminLTE 4 Asset Bundle for  Yii2",
+    "type": "yii2-extension",
+    "require": {
+        "php": ">=7.0",
+        "almasaeed2010/adminlte": "~4.0",
+        "yiisoft/yii2": "~2.0",
+        "yiisoft/yii2-bootstrap5": "~2.0"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "rplvrtha\\adminlte4\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "rplvrtha",
+            "email": "radityaloviartha@gmail.com"
+        }
+    ],
+    "minimum-stability": "rc",
+    "version": "0.0.1"
+}
